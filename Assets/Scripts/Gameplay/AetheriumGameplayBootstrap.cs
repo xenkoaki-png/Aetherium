@@ -36,7 +36,8 @@ namespace Aetherium.Gameplay
 
                 var body = GameObject.CreatePrimitive(PrimitiveType.Capsule);
                 body.transform.SetParent(PlayerRoot, false);
-                body.transform.localPosition = Vector3.zero;
+                body.transform.localPosition = new Vector3(0f, 0.9f, 0f);
+                body.transform.localScale = new Vector3(0.7f, 0.9f, 0.7f);
                 body.name = "Body";
 
                 var controller = PlayerRoot.gameObject.AddComponent<CharacterController>();
@@ -89,8 +90,18 @@ namespace Aetherium.Gameplay
                 GameObject cameraRoot = new GameObject("AetheriumCameraRig");
                 cameraRoot.transform.position = new Vector3(0f, 10f, -10f);
                 CameraRig = cameraRoot.AddComponent<MainCameraRig>();
-                CameraRig.Target = PlayerRoot;
             }
+
+            CameraRig.Target = PlayerRoot;
+
+            Camera sceneCamera = CameraRig.GetComponent<Camera>();
+            if (sceneCamera == null)
+            {
+                sceneCamera = CameraRig.gameObject.AddComponent<Camera>();
+            }
+
+            sceneCamera.tag = "MainCamera";
+            sceneCamera.enabled = true;
 
             if (GameObject.Find("AetheriumFloor") == null)
             {
