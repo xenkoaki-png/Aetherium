@@ -1,0 +1,13 @@
+Aetherium art direction prompts
+
+1. Overworld / scene
+"Ultra-detailed isometric sci-fi scrapyard in a dark neon atmosphere, cinematic lighting, richly layered surfaces, worn metal, glowing vents, detailed debris, dramatic shadows, vivid cyan and magenta accents, highly readable silhouettes, game-ready concept art, clean UI overlays, 4K quality."
+
+2. Tile set
+"Diverse sci-fi tile pack with rusted metal floors, glowing vent tiles, brittle crystal seams, hazard overlays, atmospheric moisture, detailed wear, high contrast, consistent lighting, game-ready tile atlas."
+
+3. Character sheet
+"Stylized species character sheet, multiple variants with clean silhouettes, detailed armor, vibrant but controlled palette, readable body shapes, expressive faces, strong contrast, professional game concept art."
+
+4. Enemy design
+"Hostile alien drones and crawlers, aggressive silhouettes, dense mechanical details, glowing eyes, varied shapes, dark environment, high contrast, readable from isometric view, high-detail concept sheet."

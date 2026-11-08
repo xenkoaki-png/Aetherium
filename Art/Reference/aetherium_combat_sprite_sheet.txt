@@ -1,0 +1,12 @@
+Sprite sheet: aetherium_combat_sprite_sheet.png
+Canvas: 1024 x 512 px, RGBA
+Grid: 4 columns x 2 rows, 256 x 256 px cells
+Pivot: bottom-center for every cell
+player_idle: x=0, y=256, w=256, h=256
+player_attack: x=256, y=256, w=256, h=256
+drone_idle: x=512, y=256, w=256, h=256
+drone_attack: x=768, y=256, w=256, h=256
+brute_idle: x=0, y=0, w=256, h=256
+brute_attack: x=256, y=0, w=256, h=256
+crawler_idle: x=512, y=0, w=256, h=256
+crawler_attack: x=768, y=0, w=256, h=256

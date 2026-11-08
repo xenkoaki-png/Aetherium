@@ -1,0 +1,13 @@
+AETHERIUM VISUAL CONSISTENCY GUIDE
+
+Rules:
+- Same silhouette across every angle.
+- Restrict palette to cyan, steel blue, magenta, amber, lime, and violet.
+- Keep head-to-torso ratio consistent across player species.
+- Use the same top-left key light and cool shadow direction.
+- Keep readable contrast and clean outlines on all faces.
+- Enemies keep the same threat silhouette with varied anatomy.
+- Pickups keep the same glow core and material language.
+
+Angle logic:
+Front = symmetry; Side = profile; Back = clear spine; Isometric = readable mass.

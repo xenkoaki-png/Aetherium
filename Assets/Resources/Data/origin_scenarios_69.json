@@ -1,0 +1,485 @@
+[
+  {
+    "scenarioId": 1,
+    "title": "#01 - White Room Isekai Transfer",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "HumanoidMercenary",
+    "startingPerkId": "perk_white_room_isekai_transfer"
+  },
+  {
+    "scenarioId": 2,
+    "title": "#02 - Derelict Freighter Stowaway",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "Corebound",
+    "startingPerkId": "perk_derelict_freighter_stowaway"
+  },
+  {
+    "scenarioId": 3,
+    "title": "#03 - Scrapyard Drone Awakening",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "AmorphXenomorph",
+    "startingPerkId": "perk_scrapyard_drone_awakening"
+  },
+  {
+    "scenarioId": 4,
+    "title": "#04 - Grakkan Imperial Deserter",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "Plasmoid",
+    "startingPerkId": "perk_grakkan_imperial_deserter"
+  },
+  {
+    "scenarioId": 5,
+    "title": "#05 - Containment Lab Breach",
+    "startingSector": "tartarus_hive",
+    "recommendedSpecies": "ThriKreen",
+    "startingPerkId": "perk_containment_lab_breach"
+  },
+  {
+    "scenarioId": 6,
+    "title": "#06 - Syndicate Vent Infiltrator",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "Giff",
+    "startingPerkId": "perk_syndicate_vent_infiltrator"
+  },
+  {
+    "scenarioId": 7,
+    "title": "#07 - Orbital Drop Survivor",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "Hadozee",
+    "startingPerkId": "perk_orbital_drop_survivor"
+  },
+  {
+    "scenarioId": 8,
+    "title": "#08 - Shattered Ring Salvager",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "Autognome",
+    "startingPerkId": "perk_shattered_ring_salvager"
+  },
+  {
+    "scenarioId": 9,
+    "title": "#09 - Astral Helm Apprentice",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "HumanoidMercenary",
+    "startingPerkId": "perk_astral_helm_apprentice"
+  },
+  {
+    "scenarioId": 10,
+    "title": "#10 - Deep-Hive Bio-Specimen",
+    "startingSector": "tartarus_hive",
+    "recommendedSpecies": "Corebound",
+    "startingPerkId": "perk_deep_hive_bio_specimen"
+  },
+  {
+    "scenarioId": 11,
+    "title": "#11 - Rogue AI Core Conduit",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "AmorphXenomorph",
+    "startingPerkId": "perk_rogue_ai_core_conduit"
+  },
+  {
+    "scenarioId": 12,
+    "title": "#12 - Krynnish Void Privateer",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "Plasmoid",
+    "startingPerkId": "perk_krynnish_void_privateer"
+  },
+  {
+    "scenarioId": 13,
+    "title": "#13 - Cryo-Pod Amnesiac",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "ThriKreen",
+    "startingPerkId": "perk_cryo_pod_amnesiac"
+  },
+  {
+    "scenarioId": 14,
+    "title": "#14 - Aether-Crystal Resonator",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "Giff",
+    "startingPerkId": "perk_aether_crystal_resonator"
+  },
+  {
+    "scenarioId": 15,
+    "title": "#15 - White Room Isekai Transfer",
+    "startingSector": "tartarus_hive",
+    "recommendedSpecies": "Hadozee",
+    "startingPerkId": "perk_white_room_isekai_transfer"
+  },
+  {
+    "scenarioId": 16,
+    "title": "#16 - Derelict Freighter Stowaway",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "Autognome",
+    "startingPerkId": "perk_derelict_freighter_stowaway"
+  },
+  {
+    "scenarioId": 17,
+    "title": "#17 - Scrapyard Drone Awakening",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "HumanoidMercenary",
+    "startingPerkId": "perk_scrapyard_drone_awakening"
+  },
+  {
+    "scenarioId": 18,
+    "title": "#18 - Grakkan Imperial Deserter",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "Corebound",
+    "startingPerkId": "perk_grakkan_imperial_deserter"
+  },
+  {
+    "scenarioId": 19,
+    "title": "#19 - Containment Lab Breach",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "AmorphXenomorph",
+    "startingPerkId": "perk_containment_lab_breach"
+  },
+  {
+    "scenarioId": 20,
+    "title": "#20 - Syndicate Vent Infiltrator",
+    "startingSector": "tartarus_hive",
+    "recommendedSpecies": "Plasmoid",
+    "startingPerkId": "perk_syndicate_vent_infiltrator"
+  },
+  {
+    "scenarioId": 21,
+    "title": "#21 - Orbital Drop Survivor",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "ThriKreen",
+    "startingPerkId": "perk_orbital_drop_survivor"
+  },
+  {
+    "scenarioId": 22,
+    "title": "#22 - Shattered Ring Salvager",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "Giff",
+    "startingPerkId": "perk_shattered_ring_salvager"
+  },
+  {
+    "scenarioId": 23,
+    "title": "#23 - Astral Helm Apprentice",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "Hadozee",
+    "startingPerkId": "perk_astral_helm_apprentice"
+  },
+  {
+    "scenarioId": 24,
+    "title": "#24 - Deep-Hive Bio-Specimen",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "Autognome",
+    "startingPerkId": "perk_deep_hive_bio_specimen"
+  },
+  {
+    "scenarioId": 25,
+    "title": "#25 - Rogue AI Core Conduit",
+    "startingSector": "tartarus_hive",
+    "recommendedSpecies": "HumanoidMercenary",
+    "startingPerkId": "perk_rogue_ai_core_conduit"
+  },
+  {
+    "scenarioId": 26,
+    "title": "#26 - Krynnish Void Privateer",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "Corebound",
+    "startingPerkId": "perk_krynnish_void_privateer"
+  },
+  {
+    "scenarioId": 27,
+    "title": "#27 - Cryo-Pod Amnesiac",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "AmorphXenomorph",
+    "startingPerkId": "perk_cryo_pod_amnesiac"
+  },
+  {
+    "scenarioId": 28,
+    "title": "#28 - Aether-Crystal Resonator",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "Plasmoid",
+    "startingPerkId": "perk_aether_crystal_resonator"
+  },
+  {
+    "scenarioId": 29,
+    "title": "#29 - White Room Isekai Transfer",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "ThriKreen",
+    "startingPerkId": "perk_white_room_isekai_transfer"
+  },
+  {
+    "scenarioId": 30,
+    "title": "#30 - Derelict Freighter Stowaway",
+    "startingSector": "tartarus_hive",
+    "recommendedSpecies": "Giff",
+    "startingPerkId": "perk_derelict_freighter_stowaway"
+  },
+  {
+    "scenarioId": 31,
+    "title": "#31 - Scrapyard Drone Awakening",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "Hadozee",
+    "startingPerkId": "perk_scrapyard_drone_awakening"
+  },
+  {
+    "scenarioId": 32,
+    "title": "#32 - Grakkan Imperial Deserter",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "Autognome",
+    "startingPerkId": "perk_grakkan_imperial_deserter"
+  },
+  {
+    "scenarioId": 33,
+    "title": "#33 - Containment Lab Breach",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "HumanoidMercenary",
+    "startingPerkId": "perk_containment_lab_breach"
+  },
+  {
+    "scenarioId": 34,
+    "title": "#34 - Syndicate Vent Infiltrator",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "Corebound",
+    "startingPerkId": "perk_syndicate_vent_infiltrator"
+  },
+  {
+    "scenarioId": 35,
+    "title": "#35 - Orbital Drop Survivor",
+    "startingSector": "tartarus_hive",
+    "recommendedSpecies": "AmorphXenomorph",
+    "startingPerkId": "perk_orbital_drop_survivor"
+  },
+  {
+    "scenarioId": 36,
+    "title": "#36 - Shattered Ring Salvager",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "Plasmoid",
+    "startingPerkId": "perk_shattered_ring_salvager"
+  },
+  {
+    "scenarioId": 37,
+    "title": "#37 - Astral Helm Apprentice",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "ThriKreen",
+    "startingPerkId": "perk_astral_helm_apprentice"
+  },
+  {
+    "scenarioId": 38,
+    "title": "#38 - Deep-Hive Bio-Specimen",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "Giff",
+    "startingPerkId": "perk_deep_hive_bio_specimen"
+  },
+  {
+    "scenarioId": 39,
+    "title": "#39 - Rogue AI Core Conduit",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "Hadozee",
+    "startingPerkId": "perk_rogue_ai_core_conduit"
+  },
+  {
+    "scenarioId": 40,
+    "title": "#40 - Krynnish Void Privateer",
+    "startingSector": "tartarus_hive",
+    "recommendedSpecies": "Autognome",
+    "startingPerkId": "perk_krynnish_void_privateer"
+  },
+  {
+    "scenarioId": 41,
+    "title": "#41 - Cryo-Pod Amnesiac",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "HumanoidMercenary",
+    "startingPerkId": "perk_cryo_pod_amnesiac"
+  },
+  {
+    "scenarioId": 42,
+    "title": "#42 - Aether-Crystal Resonator",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "Corebound",
+    "startingPerkId": "perk_aether_crystal_resonator"
+  },
+  {
+    "scenarioId": 43,
+    "title": "#43 - White Room Isekai Transfer",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "AmorphXenomorph",
+    "startingPerkId": "perk_white_room_isekai_transfer"
+  },
+  {
+    "scenarioId": 44,
+    "title": "#44 - Derelict Freighter Stowaway",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "Plasmoid",
+    "startingPerkId": "perk_derelict_freighter_stowaway"
+  },
+  {
+    "scenarioId": 45,
+    "title": "#45 - Scrapyard Drone Awakening",
+    "startingSector": "tartarus_hive",
+    "recommendedSpecies": "ThriKreen",
+    "startingPerkId": "perk_scrapyard_drone_awakening"
+  },
+  {
+    "scenarioId": 46,
+    "title": "#46 - Grakkan Imperial Deserter",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "Giff",
+    "startingPerkId": "perk_grakkan_imperial_deserter"
+  },
+  {
+    "scenarioId": 47,
+    "title": "#47 - Containment Lab Breach",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "Hadozee",
+    "startingPerkId": "perk_containment_lab_breach"
+  },
+  {
+    "scenarioId": 48,
+    "title": "#48 - Syndicate Vent Infiltrator",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "Autognome",
+    "startingPerkId": "perk_syndicate_vent_infiltrator"
+  },
+  {
+    "scenarioId": 49,
+    "title": "#49 - Orbital Drop Survivor",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "HumanoidMercenary",
+    "startingPerkId": "perk_orbital_drop_survivor"
+  },
+  {
+    "scenarioId": 50,
+    "title": "#50 - Shattered Ring Salvager",
+    "startingSector": "tartarus_hive",
+    "recommendedSpecies": "Corebound",
+    "startingPerkId": "perk_shattered_ring_salvager"
+  },
+  {
+    "scenarioId": 51,
+    "title": "#51 - Astral Helm Apprentice",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "AmorphXenomorph",
+    "startingPerkId": "perk_astral_helm_apprentice"
+  },
+  {
+    "scenarioId": 52,
+    "title": "#52 - Deep-Hive Bio-Specimen",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "Plasmoid",
+    "startingPerkId": "perk_deep_hive_bio_specimen"
+  },
+  {
+    "scenarioId": 53,
+    "title": "#53 - Rogue AI Core Conduit",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "ThriKreen",
+    "startingPerkId": "perk_rogue_ai_core_conduit"
+  },
+  {
+    "scenarioId": 54,
+    "title": "#54 - Krynnish Void Privateer",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "Giff",
+    "startingPerkId": "perk_krynnish_void_privateer"
+  },
+  {
+    "scenarioId": 55,
+    "title": "#55 - Cryo-Pod Amnesiac",
+    "startingSector": "tartarus_hive",
+    "recommendedSpecies": "Hadozee",
+    "startingPerkId": "perk_cryo_pod_amnesiac"
+  },
+  {
+    "scenarioId": 56,
+    "title": "#56 - Aether-Crystal Resonator",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "Autognome",
+    "startingPerkId": "perk_aether_crystal_resonator"
+  },
+  {
+    "scenarioId": 57,
+    "title": "#57 - White Room Isekai Transfer",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "HumanoidMercenary",
+    "startingPerkId": "perk_white_room_isekai_transfer"
+  },
+  {
+    "scenarioId": 58,
+    "title": "#58 - Derelict Freighter Stowaway",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "Corebound",
+    "startingPerkId": "perk_derelict_freighter_stowaway"
+  },
+  {
+    "scenarioId": 59,
+    "title": "#59 - Scrapyard Drone Awakening",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "AmorphXenomorph",
+    "startingPerkId": "perk_scrapyard_drone_awakening"
+  },
+  {
+    "scenarioId": 60,
+    "title": "#60 - Grakkan Imperial Deserter",
+    "startingSector": "tartarus_hive",
+    "recommendedSpecies": "Plasmoid",
+    "startingPerkId": "perk_grakkan_imperial_deserter"
+  },
+  {
+    "scenarioId": 61,
+    "title": "#61 - Containment Lab Breach",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "ThriKreen",
+    "startingPerkId": "perk_containment_lab_breach"
+  },
+  {
+    "scenarioId": 62,
+    "title": "#62 - Syndicate Vent Infiltrator",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "Giff",
+    "startingPerkId": "perk_syndicate_vent_infiltrator"
+  },
+  {
+    "scenarioId": 63,
+    "title": "#63 - Orbital Drop Survivor",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "Hadozee",
+    "startingPerkId": "perk_orbital_drop_survivor"
+  },
+  {
+    "scenarioId": 64,
+    "title": "#64 - Shattered Ring Salvager",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "Autognome",
+    "startingPerkId": "perk_shattered_ring_salvager"
+  },
+  {
+    "scenarioId": 65,
+    "title": "#65 - Astral Helm Apprentice",
+    "startingSector": "tartarus_hive",
+    "recommendedSpecies": "HumanoidMercenary",
+    "startingPerkId": "perk_astral_helm_apprentice"
+  },
+  {
+    "scenarioId": 66,
+    "title": "#66 - Deep-Hive Bio-Specimen",
+    "startingSector": "khar_vosh",
+    "recommendedSpecies": "Corebound",
+    "startingPerkId": "perk_deep_hive_bio_specimen"
+  },
+  {
+    "scenarioId": 67,
+    "title": "#67 - Rogue AI Core Conduit",
+    "startingSector": "xylos_prime",
+    "recommendedSpecies": "AmorphXenomorph",
+    "startingPerkId": "perk_rogue_ai_core_conduit"
+  },
+  {
+    "scenarioId": 68,
+    "title": "#68 - Krynnish Void Privateer",
+    "startingSector": "neo_veridia",
+    "recommendedSpecies": "Plasmoid",
+    "startingPerkId": "perk_krynnish_void_privateer"
+  },
+  {
+    "scenarioId": 69,
+    "title": "#69 - Cryo-Pod Amnesiac",
+    "startingSector": "aetherium_nexus",
+    "recommendedSpecies": "ThriKreen",
+    "startingPerkId": "perk_cryo_pod_amnesiac"
+  }
+]
